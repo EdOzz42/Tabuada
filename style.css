@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(103, 103, 103);
+    font: normal 16pt Arial;
+    max-width: 816px;
+    min-width: 300px;
+    margin: auto;
+}
+
+header {
+    color: rgb(5, 255, 163);
+    text-align: center;
+}
+
+section {
+    border: 4px solid rgb(5, 255, 163);
+    border-radius: 4px;
+    background-color: rgba(0, 255, 162, 0.150);
+    padding: 5px;
+}
+
+.Tools {
+    margin-bottom: 8px;
+}
+
+input {
+    border-radius: 4px;
+    border: 0px;
+    padding: 2px;
+}
+
+.NumberTabuada {
+   width: 20%;
+}
+
+
+select {
+    overflow: auto;
+    border: 3px solid rgb(0, 255, 162); 
+    margin-left: 5px;
+}
+
+option {
+    padding: 2px;
+    border: 1px solid rgb(110, 160, 142);
+}
